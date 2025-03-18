@@ -67,6 +67,9 @@ The project is organized into the following sections:
 
 ---
 
+### **Live demonstration of project**
+https://github.com/user-attachments/assets/7ff3a890-e293-47b1-afab-02b1c87bb04b
+
 ## **How to Run the Project**
 1. **Install Dependencies**:
    ```bash
